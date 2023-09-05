@@ -70,7 +70,7 @@ class ResultsScreen extends StatelessWidget {
               ),
               icon: const Icon(Icons.refresh),
               label: const Text('Restart Quiz!'),
-            ),
+            )
           ],
         ),
       ),
